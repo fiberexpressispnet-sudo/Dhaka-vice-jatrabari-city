@@ -1,0 +1,6 @@
+{
+  "name": "Dhaka Vice: MJ Syndicate",
+  "description": "An open-world 3D action-adventure game set in Dhaka with motorcycle riding, dynamic traffic, Bengali missions, and responsive multi-touch joysticks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
